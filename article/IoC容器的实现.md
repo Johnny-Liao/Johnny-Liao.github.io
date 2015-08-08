@@ -15,7 +15,7 @@ IoC中容器的设计与实现：
 <center>![IoC容器接口设计-已变](http://i.imgur.com/KuOtJK9.png)</center>
 	- 然后查看Spring-4.2.0.RELEASE中的hierarchy可以发现ApplecationContext已经不再继承AutoWireCapableBeanFactory接口了。
 	- 附图两张分别为BeanFactory继承体系图和ApplicationContext继承接口图
-<center>![HierarchyOfBeanFactory](http://i.imgur.com/abcyXe2.png)</center><center>![SuperTypeHierarchyOfApplicationContext](http://i.imgur.com/V36SLN9.png)</center>
+<center>![HierarchyOfBeanFactory](http://i.imgur.com/abcyXe2.png)![SuperTypeHierarchyOfApplicationContext](http://i.imgur.com/V36SLN9.png)</center><br/>
 由于更改太多，一图顶千言，自己直接画张图来表示。如下：
 <center>![Spring4.0-BeanFactoryHierarchy](http://i.imgur.com/b3JGwhn.png)</center>
 <center>Spring-4.2.0.RELEASE中从BeanFactory出发的接口体系。</center>
