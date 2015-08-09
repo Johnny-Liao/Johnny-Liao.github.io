@@ -6,13 +6,13 @@
 ## Spring相关
 [IoC容器的实现](article/IoC容器的实现.md)
 
-<br><br><br>
+<br><br>
 
 # 笔记
 
 ## Java技术
-[IO/NIO/NIO.2的比较](notes/article/IO_NIO_NIO.2的比较.md)
-[并发学习笔记](notes/article/并发学习笔记.md)
+[IO/NIO/NIO.2的比较](article/notes/IO_NIO_NIO.2的比较.md)
+[并发学习笔记](article/notes/并发学习笔记.md)
 
 # Copyright
 里面博客属于笔者平时学之积累，如需转载请联系本人：[SmileQf@163.com](http://mail.163.com "跳转到163邮箱")
