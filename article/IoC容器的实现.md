@@ -19,3 +19,5 @@ IoC中容器的设计与实现：
 由于更改太多，一图顶千言，自己直接画张图来表示。如下：
 <center>![Spring4.0-BeanFactoryHierarchy](http://i.imgur.com/b3JGwhn.png)</center>
 <center>Spring-4.2.0.RELEASE中从BeanFactory出发的接口体系。</center>
+<center>![Spring4.0-BeanFactoryHierarchy-all](http://i.imgur.com/2e1iT1L.jpg)</center>
+<center>Spring-4.2.0.RELEASE中从BeanFactory出发的接口体系全图。</center>
