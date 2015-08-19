@@ -49,5 +49,6 @@ NIO中一个最重要的概念是在非阻塞模式下运行，与传统Java I/O
 - 选择器：选择可用的Channel。与Selector一起使用时，Channel必须处于非阻塞模式下。因此不能将FileChannel与Selector一起使用。
 
 最后看到一篇blog写的蛮全面的在这贴出地址：[Java NIO 系列教程](http://www.iteye.com/magazines/132-Java-NIO "Java NIO 系列教程")
+[Java NIO Tutorial](http://tutorials.jenkov.com/java-nio/index.html)
 
 # NIO.2
